@@ -7,10 +7,6 @@ public class FirstBank {
 
         Account goku = new Account("Goku Son", "B0002");
         goku.showMenu();
-
-
-
-
-
+        
     }
 }
